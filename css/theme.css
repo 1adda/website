@@ -1352,6 +1352,8 @@ nav {
 }
 .nav-module.right {
   float: right;
+  margin-right: 50px;
+  margin-top: 15px;
 }
 .nav-module:first-of-type {
   padding-left: 0;
