@@ -4970,6 +4970,7 @@ section:not(.imagebg):not(.bg--dark):not(.bg--primary):not(.slider) .flex-contro
 }
 .features-2 p + .feature {
   margin-top: 4.875em;
+  margin-bottom: 4.55em;
 }
 @media all and (max-width: 767px) {
   .features-2 p + .feature {
