@@ -4622,11 +4622,7 @@ li + li .input-checkbox {
   text-align: left;
   margin-bottom: 1.625em;
 }
-@media all and (max-width: 768px) {
-  .cover-12 .modal-instance {
-    margin-bottom: 1.625em;
-  }
-}
+
 .cover-13 form {
   margin-top: 2.4375em;
 }
